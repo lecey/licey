@@ -739,15 +739,27 @@ img {
     padding: 0 16px;
   }
 
+  .site-header {
+    padding: 20px 16px;
+  }
+
   .header-inner {
     flex-wrap: wrap;
   }
 
-  .hero-section {
-    padding: 24px 0 20px;
+  .hero-section,
+  .cta-section,
+  .programs-section,
+  .promo-section {
+    padding: 32px 0 32px;
   }
 
-  .hero-subtitle {
+  .hero-section {
+    padding-top: 48px;
+  }
+
+  .hero-subtitle,
+  .section-subtitle {
     margin-bottom: 24px;
   }
 
@@ -788,5 +800,9 @@ img {
 
   .contact-pill--phone span {
     font-size: 0.8rem;
+  }
+
+  .contact-pill--phone span:last-child {
+    display: none;
   }
 }
