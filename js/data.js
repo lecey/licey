@@ -36,7 +36,7 @@ var siteConfig = {
     phone: "8 (928) 28-28-108",
     phoneHref: "tel:+79282828108",
     social: [
-      { name: "MAX", href: "#", label: "Макс", icon: "max" },
+      { name: "MAX", href: "https://max.ru/u/f9LHodD0cOJSSv3xnoct6lqshjy9bCZrWcLe1SzkfZ9uWSdndmFyICzDlHQ", label: "Макс", icon: "max" },
       { name: "VK", href: "https://vk.com/babylicey123", label: "ВКонтакте", icon: "vk" }
     ]
   },
@@ -45,7 +45,7 @@ var siteConfig = {
     phone: "8 (928) 28-28-108",
     phoneHref: "tel:+79282828108",
     social: [
-      { name: "MAX", href: "#", label: "Макс", icon: "max" },
+      { name: "MAX", href: "https://max.ru/u/f9LHodD0cOJSSv3xnoct6lqshjy9bCZrWcLe1SzkfZ9uWSdndmFyICzDlHQ", label: "Макс", icon: "max" },
       { name: "VK", href: "https://vk.com/babylicey123", label: "ВКонтакте", icon: "vk" }
     ],
     copyright: "© 2026 Лицей для малышей. Все права защищены."
